@@ -70,6 +70,7 @@
 
 ###
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akmalrmn&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=akmalrmn&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ###
 <a href="https://github.com/anuraghazra/github-readme-stats">
