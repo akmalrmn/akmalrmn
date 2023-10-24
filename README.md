@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi My name is Mohammad Akmal Ramadan.</h1>
+<h1 align="left">👋 Hi! My name is Mohammad Akmal Ramadan.</h1>
 
 ###
 
