@@ -71,11 +71,13 @@
 ###
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akmalrmn&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+###
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalrmn&layout=donut&theme=radical" />
 </a>
+    
 <a href="https://github.com/anuraghazra/convoychat" >
-  <img height=200 align="center" padding=2022 src= "https://github-readme-stats.vercel.app/api?username=akmalrmn&show_icons=true&theme=radical" />
+  <img height=200 align="center" src= "https://github-readme-stats.vercel.app/api?username=akmalrmn&show_icons=true&theme=radical" />
 </a>
 
 ###
