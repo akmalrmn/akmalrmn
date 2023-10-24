@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 My name is Mohammad Akmal Ramadan.</h1>
+<h1 align="left">👋 Hi My name is Mohammad Akmal Ramadan.</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👦 About me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I familiar with</h2>
+<h2 align="left">🧑‍💻 I familiar with</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">✨ Connect with me</h2>
 
 ###
 <div align="left">
@@ -61,7 +61,7 @@
 
 ###
 
-<h2 align="left">My little to none stats 🔥</h2>
+<h2 align="left">🔥 My little to none stats</h2>
 
 
 ###
@@ -71,6 +71,7 @@
 ###
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akmalrmn&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 [![trophy](https://github-profile-trophy.vercel.app/?username=akmalrmn&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ###
 <a href="https://github.com/anuraghazra/github-readme-stats">
