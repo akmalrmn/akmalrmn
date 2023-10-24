@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 My name is Mohammad Akmal Ramadan</h1>
 
 ###
 
-<p align="left">My name is Mohammad Akmal Ramadan and I'm a computer science student, from Bandung Institute of Technology.</p>
+<p align="left">I'm a student at Bandung Institute of Technology majoring in computer science 🖥️.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently a sophomore cs student.<br>📌 Bandung, Indonesia.<br>🎯 Striving to become a good software engineer.</p>
+<p align="left">📚 I'm currently a sophomore cs student.<br>📌 Based in Bandung, Indonesia.<br>🎯 Striving to become a good software engineer.</p>
 
 ###
 
@@ -69,6 +69,6 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akmalrmn.akmalrmn&right_color=indianred"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akmalrmn.akmalrmn&right_color=crimson"  />
 
 ###
