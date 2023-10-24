@@ -44,15 +44,25 @@
 
 ###
 
-<h2 align="left">My little to none stats 🔥</h2>
+<h2 align="left">Connect with me</h2>
+
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/akmalrmn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:akmalramadannn@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/akmalrmn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akmalrmn/akmalrmn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akmalrmn/akmalrmn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akmalrmn/akmalrmn/output/github-contribution-grid-snake.svg">
-</picture>
+<h2 align="left">My little to none stats 🔥</h2>
+
 
 ###
 
@@ -66,6 +76,14 @@
 <a href="https://github.com/anuraghazra/convoychat" >
   <img height=200 align="center" padding=2022 src= "https://github-readme-stats.vercel.app/api?username=akmalrmn&show_icons=true&theme=radical" />
 </a>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akmalrmn/akmalrmn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akmalrmn/akmalrmn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akmalrmn/akmalrmn/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
