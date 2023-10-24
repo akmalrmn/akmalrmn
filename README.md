@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">🧑‍💻 I familiar with</h2>
+<h2 align="left">🧑‍💻 Tools I familiar with</h2>
 
 ###
 
