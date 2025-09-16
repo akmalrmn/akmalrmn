@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently a sophomore cs student.<br>📌 Based in Bandung, Indonesia.<br>🎯 Striving to become a good software engineer.</p>
+<p align="left">📚 I'm currently a mahasiswa tua cs student.<br>📌 Based in Bandung, Indonesia.<br>🎯 Striving to become a good software engineer.</p>
 
 ###
 
